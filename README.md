@@ -19,3 +19,7 @@ Digital Inputs
 Relay Outputs
 DIN-Rail mount
 Expansions Supported
+
+Datasheet:   https://drive.google.com/open?id=1WoEzK3a-eVT1yMiqtLyYp_ocV6fTMXg1&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1eK6MGSzZwY-ZIACGays2670wJ0ziqCRM&usp=drive_fs
+
