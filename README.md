@@ -20,6 +20,6 @@ Relay Outputs
 DIN-Rail mount
 Expansions Supported
 
-Datasheet:   https://drive.google.com/open?id=1XHWRaKvy_-08Zgq2baY7Am1IyI_U9ak6&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1eK6MGSzZwY-ZIACGays2670wJ0ziqCRM&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-gsm-ae08-r-g-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-gsm-ae08-r-g-user-guide/
 
