@@ -20,6 +20,6 @@ Relay Outputs
 DIN-Rail mount
 Expansions Supported
 
-Datasheet:   https://drive.google.com/open?id=1WoEzK3a-eVT1yMiqtLyYp_ocV6fTMXg1&usp=drive_fs
+Datasheet:   https://drive.google.com/open?id=1XHWRaKvy_-08Zgq2baY7Am1IyI_U9ak6&usp=drive_fs
 User Guide:  https://drive.google.com/open?id=1eK6MGSzZwY-ZIACGays2670wJ0ziqCRM&usp=drive_fs
 
