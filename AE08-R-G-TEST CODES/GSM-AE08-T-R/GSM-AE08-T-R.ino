@@ -182,7 +182,6 @@ void loop() {
   digitalWrite(OUTPUT3, LOW);
   digitalWrite(OUTPUT4, LOW);
   Serial1.println("Hello RS-485");
-  //Serial2.println("AT");
   delay(1000);
 }
 
