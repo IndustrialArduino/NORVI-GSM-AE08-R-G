@@ -1,9 +1,9 @@
 /* 
  * RTC Check
- * micro SD Card Check CS : 15
- * Ethernet Check      CS : 5
+ * micro SD Card Check 
+ * Ethernet Check      
  * RS485
- * GSM LTE Modem AT TEst
+ * GSM Modem AT TEst
  * All Output Turn ON Series
  * All input status serial print
  * Turns ON All Outputs in series
@@ -39,7 +39,6 @@
 
 #define GSM_RX 32
 #define GSM_TX 33
-#define GSM_RESET 21
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
